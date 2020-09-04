@@ -1,5 +1,7 @@
-dao/DAO.java
- dao.DAO
+dao/IProductDAO.java
+ dao.IProductDAO
+dao/ProductDAO.java
+ dao.ProductDAO
 model/Product.java
  model.Product
 controller/Servlet.java
